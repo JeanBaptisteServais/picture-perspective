@@ -36,4 +36,10 @@ yellow points = current person
 ![a](https://user-images.githubusercontent.com/54853371/97123710-557aa400-172d-11eb-99a3-3a24256e1f44.png)
 ![3d](https://user-images.githubusercontent.com/54853371/97123725-5e6b7580-172d-11eb-996b-50c50361e25c.png)
 
+if z is hight, plan is far if it want say something
+
+
+requirements:
+
 you need to put one picture on the pictures folder and lunch it.
+
