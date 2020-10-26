@@ -43,3 +43,4 @@ requirements:
 
 you need to put one picture on the pictures folder and lunch it.
 
+put code from the url on the model folder.
