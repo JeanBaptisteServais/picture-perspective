@@ -13,6 +13,10 @@ first try by size of person
 
 second try by cosinus law
 
+![c](https://user-images.githubusercontent.com/54853371/97123707-51e71d00-172d-11eb-8f98-ef85315d8de0.png)
+
+rcnn person mask detection
+
 ![b](https://user-images.githubusercontent.com/54853371/97123716-5a3f5800-172d-11eb-8d7f-fdc5e0f01447.png)
 
 using foot (and not head) as coordinates because all foot are on the ground !
@@ -27,7 +31,7 @@ yellow points = current person
 
 
 
-![c](https://user-images.githubusercontent.com/54853371/97123707-51e71d00-172d-11eb-8f98-ef85315d8de0.png)
+
 ![a](https://user-images.githubusercontent.com/54853371/97123710-557aa400-172d-11eb-99a3-3a24256e1f44.png)
 ![3d](https://user-images.githubusercontent.com/54853371/97123725-5e6b7580-172d-11eb-996b-50c50361e25c.png)
 
